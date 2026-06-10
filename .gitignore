@@ -1,0 +1,8 @@
+# 내부 작업/에이전트 산출물 (공개 레포에 포함하지 않음 — 로컬 보존)
+.superpowers/
+.serena/
+docs/
+geohash-explorer/spec_prompt.md
+
+# OS / 에디터
+.DS_Store
